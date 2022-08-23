@@ -1,5 +1,105 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    padding: 0%;
-    margin: 0%;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding-bottom: 50px;
+}
+
+.donate-title {
+    background-image: url(images/donate15.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 340px 50px 340px;
+    text-align: center;
+    font-size: 27px;
+}
+
+.donate-title h1 {
+    color: red;
+}
+
+button {
+    padding: 12px 20px 12px 20px;
+    background: #FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.donateToday {
+    text-align: center;
+}
+
+.donate-amount {
+    display: flex;
+    text-align: center;
+    padding-left: 301px;
+}
+
+.donate-amount h1 {
+    padding: 25px 18px 25px 18px;
+    background: #8080802b;
+    margin: 20px;
+}
+
+h1.last-sent {
+    background: #e94e4e42;
+    border: 1px solid red;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    margin-left: 428px;
+    margin-top: 20px;
+    display: block;
+}
+
+.input button {
+    margin-left: 601px;
+    margin-top: 13px;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    font-size: 35px;
+}
+
+.donate-plan-details {
+    display: flex;
+    text-align: left;
+    margin-left: 102px;
+}
+
+.donate-plan-contain {
+    padding: 18px;
+    width: 327px;
+    margin: 14px;
+}
+
+#food {
+    background: #4f9da636;
+}
+
+#shelter {
+    background: #ff59592b;
+}
+
+div#education {
+    background: #fff4d6ba;
 }
