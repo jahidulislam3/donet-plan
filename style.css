@@ -103,3 +103,13 @@ input {
 div#education {
     background: #fff4d6ba;
 }
+
+footer h1 {
+    color: #FF5959;
+    padding-top: 40px;
+}
+
+footer p {
+    color: #D9DBE1;
+    padding-bottom: 25px;
+}
