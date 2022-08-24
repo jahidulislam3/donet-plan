@@ -104,6 +104,28 @@ div#education {
     background: #fff4d6ba;
 }
 
+.our-goal {
+    display: flex;
+    padding: 0px 164px 47px 118px;
+}
+
+.ourGoalContaint {
+    width: 100%;
+}
+
+.ourGoalContaint h1 {
+    font-size: 40px;
+}
+
+.ourGoalContaint img {
+    width: 80%;
+}
+
+.subscribe-title h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
 .Subscribe {
     text-align: center;
     background: #FFF4D6;
