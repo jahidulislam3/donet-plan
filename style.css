@@ -54,7 +54,7 @@ h1.last-sent {
     border: 1px solid red;
 }
 
-input {
+.input input {
     border-top: none;
     border-left: none;
     border-right: none;
@@ -102,6 +102,23 @@ input {
 
 div#education {
     background: #fff4d6ba;
+}
+
+.Subscribe {
+    text-align: center;
+    background: #FFF4D6;
+    margin: 0px 320px;
+    padding: 64px;
+}
+
+.Subscribe input {
+    width: 250px;
+    height: 48px;
+}
+
+footer {
+    background: black;
+    text-align: center;
 }
 
 footer h1 {
